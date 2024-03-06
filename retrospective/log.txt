@@ -1,0 +1,54 @@
+commit d92112e22bb7c374dea5da7d2b1cfbc175fbd0a0
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 13:24:01 2024 -0600
+
+    Created version tag for Working branch
+
+commit 695f3b3c091ae4e92508ba9a127b787e840e99a8
+Merge: 6ac4a5b 6eb9d51
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 13:14:27 2024 -0600
+
+    Merged with README.md after fixing conflicts
+
+commit 6ac4a5b850b46135312a7d24a4b1f0155d90f885
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 13:08:41 2024 -0600
+
+    Added git version to README.md on Working branch
+
+commit 6eb9d517d6fa2acf2bb18a219cccfaa7fc64b6fb
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 13:01:42 2024 -0600
+
+    Added student ID to README.md
+
+commit 55b0021deda4f8ec58f598de010d606a9c08048d
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 12:56:39 2024 -0600
+
+    Added additional statement in Quality section in about.html
+
+commit 7dfad75674fc000d30f1f360a3d410fc013c8730
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 12:53:16 2024 -0600
+
+    Added phone number field in contact form in contact.html
+
+commit 1d8c0cc019b9bf36e8c1befa36c4b23490d837ca
+Author: Aaron Lorenzo <agarrol@wgu.edu>
+Date:   Wed Mar 6 12:45:32 2024 -0600
+
+    Updated title to 'Western Tech Hub-Home' in index.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

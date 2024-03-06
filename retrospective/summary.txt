@@ -1,0 +1,6 @@
+Changes in Part C1:  Added an additional statement in the Quality section of the about.html page.
+I also added a phone number field in the contact.html page: This modification included adding a new input field for users to enter their phone number when submitting inquiries through the contact form. I aimed to improve communication channels between the company and its customers.
+The third and last change was updating the title of the index.html page to "Western Tech Hub-Home" to improve search engine optimization(SEO).
+
+Merge Conflict Resolution (Part E1):
+The merge conflict in part E1 was resolved by carefully examining the conflicting changes introduced by the "Test" branch and the "Working" branch. Specifically, the conflicting lines between the two branches were identified and manually edited to reconcile the differences. This involved reviewing the changes made in both branches and selecting the appropriate version for each conflicting section of the code. Once all conflicts were resolved, the changes were staged and committed, allowing the merge process to proceed smoothly.
